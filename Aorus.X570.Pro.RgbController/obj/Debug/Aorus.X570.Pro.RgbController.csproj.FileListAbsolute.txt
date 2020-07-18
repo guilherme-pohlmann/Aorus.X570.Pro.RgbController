@@ -1,0 +1,13 @@
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\bin\Debug\Aorus.X570.Pro.RgbController.exe.config
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\bin\Debug\Aorus.X570.Pro.RgbController.exe
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\bin\Debug\Aorus.X570.Pro.RgbController.pdb
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\bin\Debug\Gigabyte.ULightingEffects.dll
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\bin\Debug\LedLib2.dll
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.csprojAssemblyReference.cache
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.Properties.Resources.resources
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.csproj.GenerateResource.cache
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.csproj.CoreCompileInputs.cache
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.csproj.CopyComplete
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.exe
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.pdb
+C:\Users\guilherme\source\repos\Aorus.X570.Pro.RgbController\Aorus.X570.Pro.RgbController\obj\Debug\Aorus.X570.Pro.RgbController.FormMain.resources
